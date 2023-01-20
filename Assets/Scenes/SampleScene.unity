@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028331, g: 0.2257133, b: 0.3069217, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -190,6 +190,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bola (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8692462672982065276, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d07892e7bd45cc049a5d3a466fbc6816, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
 --- !u!1001 &126082561
@@ -259,6 +263,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bola
       objectReference: {fileID: 0}
+    - target: {fileID: 8692462672982065276, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 74c26ed94b478b34ba42e7ec21283c7f, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
 --- !u!1001 &283835724
@@ -328,6 +336,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bola (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8692462672982065276, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1385418e7aa9b2848a756a4da9d6aeef, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
 --- !u!1001 &302381821
@@ -397,6 +409,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bola (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8692462672982065276, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4f61819f9a3b3ec4ba2d9c8bd3eb294e, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
 --- !u!1001 &341328905
@@ -608,6 +624,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bola (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8692462672982065276, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d68c06f3bb9dde644b04005d1b6706ec, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
 --- !u!1 &705507993
@@ -771,6 +791,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bola (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8692462672982065276, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3cf01de1bdee310469248f995f5a61fb, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
 --- !u!1 &963194225
@@ -924,6 +948,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bola (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8692462672982065276, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8ac04580ec6aa1a468e74693df2e8373, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
 --- !u!1001 &1178577847
@@ -1119,6 +1147,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bola (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 8692462672982065276, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4ead54666b74737488ab1de72c31e491, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
 --- !u!1001 &1472859351
@@ -1188,6 +1220,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bola (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8692462672982065276, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2877dc1c8ebd10b48bfa7e65698ffb20, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
 --- !u!1001 &1492390287
@@ -1314,6 +1350,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bola (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8692462672982065276, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4606d6ed3de73f14bbd2ec8df1e99533, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
 --- !u!1001 &1696320963
@@ -1440,6 +1480,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bola (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 8692462672982065276, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6d7851a01f4414d4fb1a16d79e508f4f, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
 --- !u!1001 &1895003508
@@ -1509,6 +1553,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bola (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 8692462672982065276, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d03c45eabdd14364cbad0ae4a09e19f6, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
 --- !u!1001 &2053446315
@@ -1578,6 +1626,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bola (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8692462672982065276, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2877dc1c8ebd10b48bfa7e65698ffb20, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
 --- !u!1001 &2069455600
@@ -1647,5 +1699,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bola (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8692462672982065276, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7df8447a7a3919d45a09794b93b72547, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 66ec69dafef2bee449a14c4e7eebc0bf, type: 3}
